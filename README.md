@@ -1,6 +1,8 @@
 # Atrial-fibrillation-risk-prediction
-Script to compute different atrial fibrillation risk prediction scores
+- Script to compute different atrial fibrillation risk prediction scores
+
 To compute the scores run the jupyter notebook file (Atrial_fibrillation_risk_scores.ipynb) in colab or locally.
+
 ## Description
 
 Scores | Italian score	| Mayo score	| Treatment-aware | Treatment-aware with interaction*
