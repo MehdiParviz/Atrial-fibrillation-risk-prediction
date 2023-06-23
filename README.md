@@ -24,4 +24,4 @@ Grade ≥ 3 infections | 1 |  | |
 Blood culture (count) | | | 1 | 1 (2)
 Blood culture (positive) | | | 1 | 1 (2)
 Ibrutinib treatment | | | 1 | 1
-* **The points in the parenthesis applly if treated with ibrutinib**
+* **The points in the parenthesis apply if treated with ibrutinib**
